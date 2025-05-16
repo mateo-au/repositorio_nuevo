@@ -48,3 +48,15 @@ button.operadores {
     height: 50px;
     background-color:cyan;
 }
+.footer{
+    clear: left;
+    margin: 2px;
+    width: 400px;
+    height: 30px;
+    display: block;
+    background-color: peru;
+    text-align: center;
+    margin-left: 33%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
